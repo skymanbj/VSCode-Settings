@@ -63,7 +63,7 @@
     "source.unusedImports": "always"
   },
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "'Monaspace Neon', monospace",
+  "editor.fontFamily": "'Monaspace Neon NF', monospace",
   "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
